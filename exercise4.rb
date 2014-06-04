@@ -13,3 +13,4 @@ range.each do |i|
 	end
 end
 
+#in the if and else statement i does not need to be |i|
